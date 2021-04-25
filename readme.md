@@ -14,10 +14,18 @@ Note
 
 </div>
 
-# 머신러닝 참고 강의
+# 머신러닝 참고 강의 및 서적
 
 <br />
 
 [ Pandas Tutorial / W3 School ](https://www.w3schools.com/python/pandas/default.asp "머신러닝 튜토리얼 / 판다스")
+
+<br />
+
+Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron
+
+<br />
+
+Introduction to Machine Learning with Python A Guide for Data Scientists by Andreas C. Müller, Sarah Guido
 
 <br />
