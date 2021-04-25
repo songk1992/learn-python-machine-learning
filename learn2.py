@@ -23,3 +23,6 @@ plt.show()
 print(df.to_string())
 
 print(new_df.to_string())
+
+
+print(df)
